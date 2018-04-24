@@ -1,0 +1,8 @@
+sqr_rt = {}
+
+a = int(input("Choose a number"))
+b = int(a*a)
+
+sqr_rt [a] = b
+
+print (sqr_rt)
